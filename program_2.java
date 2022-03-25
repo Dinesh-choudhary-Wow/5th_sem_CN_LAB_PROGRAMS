@@ -1,5 +1,5 @@
-//Write a program to find the shortest path between vertices using bellman-ford 
-algorithm.
+/*Write a program to find the shortest path between vertices using bellman-ford 
+algorithm.*/
 
 package com.WARRIOR;
 import java.util.Scanner;
